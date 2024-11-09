@@ -5,4 +5,4 @@ for i in word:
         print("We found the a. I am taking it to the gulag.")
         break
     else:
-        print("We lost the a. we,ll gat it next time.")
+        print("We lost the a. we,ll get it next time.")
